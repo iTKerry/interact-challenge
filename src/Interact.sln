@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteractZipper", "InteractZipper\InteractZipper.csproj", "{B73D0035-8F82-44AD-8591-37321F73BB51}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0C3F8D30-F52A-4D0B-B816-F984AFC3AAD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteractZipper.Services", "InteractZipper.Services\InteractZipper.Services.csproj", "{B6E2FB2E-07A1-4472-A1F1-531D077F6E23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B73D0035-8F82-44AD-8591-37321F73BB51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B73D0035-8F82-44AD-8591-37321F73BB51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B73D0035-8F82-44AD-8591-37321F73BB51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B73D0035-8F82-44AD-8591-37321F73BB51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6E2FB2E-07A1-4472-A1F1-531D077F6E23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6E2FB2E-07A1-4472-A1F1-531D077F6E23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6E2FB2E-07A1-4472-A1F1-531D077F6E23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E2FB2E-07A1-4472-A1F1-531D077F6E23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B73D0035-8F82-44AD-8591-37321F73BB51} = {0C3F8D30-F52A-4D0B-B816-F984AFC3AAD6}
+		{B6E2FB2E-07A1-4472-A1F1-531D077F6E23} = {0C3F8D30-F52A-4D0B-B816-F984AFC3AAD6}
+	EndGlobalSection
+EndGlobal
